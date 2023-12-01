@@ -18,8 +18,6 @@ I'm an ambitious and forward thinking student who is passionate about AI and wha
   </ul>
 </details>
 
-Visual studio code, Visual studio, STM32CubeIDE, Jupyter Notebooks, Git/Github, Figma...
-
 <details>
   <summary><b>Tools</b></summary>
   <ul>
