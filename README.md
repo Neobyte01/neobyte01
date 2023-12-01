@@ -1,6 +1,6 @@
 ## Hi, I'm Emil 👋
 
-![banner](https://github.com/Neobyte01/neobyte01/blob/main/banner.png)
+![banner](https://github.com/Neobyte01/neobyte01/blob/main/profile-banner-2.png)
 
 I'm an ambitious and forward thinking student who is passionate about AI and what it brings to the future. I really enjoy deep-diving into new areas, and challenging my knowledge and abilities. Learning more about different technologies have been a hobby of mine, even before entering an education based on data technology and science.
 
