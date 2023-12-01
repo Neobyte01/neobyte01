@@ -34,6 +34,3 @@ I'm an ambitious and forward thinking student who is passionate about AI and wha
 
 ### Projects
 
-<br/>
-
-![Neobyte01's GitHub stats](https://github-readme-stats.vercel.app/api?username=neobyte01&theme=dark&show_icons=true)
