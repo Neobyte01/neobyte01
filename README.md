@@ -18,16 +18,15 @@ I'm an ambitious and forward thinking student who is passionate about AI and wha
   </ul>
 </details>
 
+Visual studio code, Visual studio, STM32CubeIDE, Jupyter Notebooks, Git/Github, Figma...
+
 <details>
   <summary><b>Tools</b></summary>
   <ul>
-    <li>Python (NumPy, Matplotlib, ...)</li>
-    <li>C-languages (C, C++, C#)</li>
-    <li>Embedded electronics (FPGA, STM32)</li>
-    <li>Python (NumPy, Matplotlib, ...)</li>
-    <li>Javascript (React, Node.js, ...)</li>
-    <li>Database (SQL, MongoDB)</li>
-    <li>HTML/CSS </li>
-    <li>CUDA</li>
+    <li>Visual studio code</li>
+    <li>Visual studio</li>
+    <li>STM32CubeIDE</li>
+    <li>Jupyter notebooks</li>
+    <li>Figma</li>
   </ul>
 </details>
