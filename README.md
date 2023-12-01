@@ -31,6 +31,3 @@ I'm an ambitious and forward thinking student who is passionate about AI and wha
     <li>CUDA</li>
   </ul>
 </details>
-
-### Projects
-
